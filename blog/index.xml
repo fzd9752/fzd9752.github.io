@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog on Elsa Wang</title>
-    <link>https://fzd9752.github.io/blog/</link>
-    <description>Recent content in Blog on Elsa Wang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://fzd9752.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Elsa Wang</title><link>https://fzd9752.github.io/blog/</link><description>Recent content in Blog on Elsa Wang</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://fzd9752.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Finally, My Personal Website</title><link>https://fzd9752.github.io/blog/firstblog/</link><pubDate>Sun, 01 Nov 2020 23:00:00 +0800</pubDate><guid>https://fzd9752.github.io/blog/firstblog/</guid><description>Hosting on GitHub Pages CI with Github Actions</description></item></channel></rss>
